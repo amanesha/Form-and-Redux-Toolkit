@@ -3,6 +3,8 @@
 It show the Form data is in global state and any componet can use the data in
 on centeral state store .
 
+## Scrrenshot
+![project-image](image1.PNG)
 
 ## How to setup
 
