@@ -1,7 +1,7 @@
-# Counter Project using Redux and ReduxToolKit
+# Form and Redux ToolKit Project Dispalyin all value in global state
 
-It show the counter project using vanila reduxa and reduxtoolkit to demonestrate the 
-difference between redux and reduxtoolkit.
+It show the Form data is in global state and any componet can use the data in
+on centeral state store .
 
 
 ## How to setup
