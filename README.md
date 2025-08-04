@@ -1,4 +1,4 @@
-# Form and Redux ToolKit Project Dispalyin all value in global state
+# Form and Redux ToolKit Project Dispalyig all value in global state
 
 It show the Form data is in global state and any componet can use the data in
 on centeral state store .
